@@ -3,7 +3,7 @@
 
 ✨ 욕심도 많고 알고 싶은 것도 너무 많아서, 멈추지 않고 배우는 사람이 되고 싶습니다. 
 
-![matched-bg2-designify.png](%E1%84%8B%E1%85%AA%E1%86%AB%E1%84%87%E1%85%A7%E1%86%A8%E1%84%92%E1%85%A1%E1%86%AB%E1%84%80%E1%85%A5%E1%86%BA%E1%84%87%E1%85%A9%E1%84%83%E1%85%A1%20%E1%84%8B%E1%85%AA%E1%86%AB%E1%84%89%E1%85%AE%E1%84%92%E1%85%A1%E1%84%82%E1%85%B3%E1%86%AB%E1%84%85%E1%85%A7%E1%84%82%E1%85%B3%E1%86%AB%20%E1%84%80%E1%85%A2%E1%84%87%E1%85%A1%E1%86%AF%E1%84%8C%E1%85%A1%E1%84%80%E1%85%A1%20%E1%84%83%E1%85%AC%E1%84%80%E1%85%A9%E1%84%89%E1%85%B5%E1%87%81%2086fdfb62fcd54dfcaf90e7aabbe11e55/matched-bg2-designify.png)
+![image](https://user-images.githubusercontent.com/86054791/169239819-df0576ac-674f-4b10-a494-7ff510bafb54.png)
 
 📧  **Email**
 
@@ -56,7 +56,7 @@ zakigaebal@gmail.com
 
 ### **Used Tool & Skill 👨🏻‍💻**
 
-**Tool**
+**Used Tool**
 
 `Git` `Github`  `Visual Studio Code` `Netlify` `Figma` `C#`  /
 
@@ -64,13 +64,7 @@ zakigaebal@gmail.com
 
 `HTML` `CSS` `Javascript` 
 
-## Project ——
 
-**제가 현재까지 진행했거나 진행중인 프로젝트들입니다.**
-
-- 깃허브
-
-- 블로그
 ![image](https://user-images.githubusercontent.com/86054791/169239669-1dc83973-11d8-4f56-bc28-9823dc461fb4.png)
 
 
