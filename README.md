@@ -1,199 +1,97 @@
-# Dillinger
-## _The Last Markdown Editor, Ever_
+# 완수하는것이 완벽한것보다 낫다
+## _a
 
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-Dillinger is a cloud-enabled, mobile-ready, offline-storage compatible,
-AngularJS-powered HTML5 Markdown editor.
+# 완벽한것보다 완수하는려는 개발자가 되고싶은 최대열 입니다.
 
-- Type some Markdown on the left
-- See HTML in the right
-- ✨Magic ✨
+✨ 욕심도 많고 알고 싶은 것도 너무 많아서, 멈추지 않고 배우는 사람이 되고 싶습니다. 
 
-## Features
+![matched-bg2-designify.png](%E1%84%8B%E1%85%AA%E1%86%AB%E1%84%87%E1%85%A7%E1%86%A8%E1%84%92%E1%85%A1%E1%86%AB%E1%84%80%E1%85%A5%E1%86%BA%E1%84%87%E1%85%A9%E1%84%83%E1%85%A1%20%E1%84%8B%E1%85%AA%E1%86%AB%E1%84%89%E1%85%AE%E1%84%92%E1%85%A1%E1%84%82%E1%85%B3%E1%86%AB%E1%84%85%E1%85%A7%E1%84%82%E1%85%B3%E1%86%AB%20%E1%84%80%E1%85%A2%E1%84%87%E1%85%A1%E1%86%AF%E1%84%8C%E1%85%A1%E1%84%80%E1%85%A1%20%E1%84%83%E1%85%AC%E1%84%80%E1%85%A9%E1%84%89%E1%85%B5%E1%87%81%2086fdfb62fcd54dfcaf90e7aabbe11e55/matched-bg2-designify.png)
 
-- Import a HTML file and watch it magically convert to Markdown
-- Drag and drop images (requires your Dropbox account be linked)
-- Import and save files from GitHub, Dropbox, Google Drive and One Drive
-- Drag and drop markdown and HTML files into Dillinger
-- Export documents as Markdown, HTML and PDF
+📧  **Email**
 
-Markdown is a lightweight markup language based on the formatting conventions
-that people naturally use in email.
-As [John Gruber] writes on the [Markdown site][df1]
+zakigaebal@gmail.com
 
-> The overriding design goal for Markdown's
-> formatting syntax is to make it as readable
-> as possible. The idea is that a
-> Markdown-formatted document should be
-> publishable as-is, as plain text, without
-> looking like it's been marked up with tags
-> or formatting instructions.
+📷 **Instagram**
 
-This text you see here is *actually- written in Markdown! To get a feel
-for Markdown's syntax, type some text into the left window and
-watch the results in the right.
+🐱 **Github**
 
-## Tech
+[https://github.com/zakigaebal](https://github.com/zakigaebal)
 
-Dillinger uses a number of open source projects to work properly:
+🍀 **Velog**
 
-- [AngularJS] - HTML enhanced for web apps!
-- [Ace Editor] - awesome web-based text editor
-- [markdown-it] - Markdown parser done right. Fast and easy to extend.
-- [Twitter Bootstrap] - great UI boilerplate for modern web apps
-- [node.js] - evented I/O for the backend
-- [Express] - fast node.js network app framework [@tjholowaychuk]
-- [Gulp] - the streaming build system
-- [Breakdance](https://breakdance.github.io/breakdance/) - HTML
-to Markdown converter
-- [jQuery] - duh
+[https://velog.io/@maxiday](https://velog.io/@maxiday)
 
-And of course Dillinger itself is open source with a [public repository][dill]
- on GitHub.
+**😎 Code mate**
 
-## Installation
+[https://codemate.kr/](https://codemate.kr/)
 
-Dillinger requires [Node.js](https://nodejs.org/) v10+ to run.
+## *Profile ——*
 
-Install the dependencies and devDependencies and start the server.
+# 🙋‍♀️ Introduce
 
-```sh
-cd dillinger
-npm i
-node app
-```
+### "안녕하세요! 🤠
+꾸준히 노력하는 최대열 입니다!"
 
-For production environments...
+**________**
 
-```sh
-npm install --production
-NODE_ENV=production node app
-```
+개발할 때 포기하지 않고 꾸준히 하는 것을 중요시합니다. 협업 시 민폐가 끼치지 않도록 끝까지 노력합니다!
 
-## Plugins
+안녕하세요. 공과계열출신의 비전공 현직 개발자인 최대열입니다. 제가 먼저 일했던곳은 차량소독기 회사였습니다.
 
-Dillinger is currently extended with the following plugins.
-Instructions on how to use them in your own application are linked below.
+일을 하면서 기계에 프로그래밍 요소가 들어가면 설계한 대로 움직이는 로봇이 되는 것을 보고 프로그래밍에 대해 많은 관심이 생겼었고, 또한 미래에는 프로그래밍 IT 분야가 모든 산업을 선도 한다고 생각을 했습니다.
 
-| Plugin | README |
-| ------ | ------ |
-| Dropbox | [plugins/dropbox/README.md][PlDb] |
-| GitHub | [plugins/github/README.md][PlGh] |
-| Google Drive | [plugins/googledrive/README.md][PlGd] |
-| OneDrive | [plugins/onedrive/README.md][PlOd] |
-| Medium | [plugins/medium/README.md][PlMe] |
-| Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
+그 후, 바로 프로그래밍 을 독학하면서 공부하였습니다.  처음엔 정말 컴맹? 인 제가 할 수 있을까
 
-## Development
+고민도 많았지만 결국 기계공학이든 컴퓨터 공학이든 모두 엔지니어링(공학) 이라는 것을 몸소 느꼈습니다.
 
-Want to contribute? Great!
+저 또한 비전공자 개발자이기에 무엇 부터 배워야하고
 
-Dillinger uses Gulp + Webpack for fast developing.
-Make a change in your file and instantaneously see your updates!
+ 어떻게 프로그래밍을 학습을 해야하는지 누구보다 잘 안다고 자부 할 수 있습니다.
 
-Open your favorite Terminal and run these commands.
+감사합니다.
 
-First Tab:
+## About me *——*
 
-```sh
-node app
-```
+[✌ Intro (1)](https://www.notion.so/d457b629698d4a38a2f274037f9472e6)
 
-Second Tab:
+![Untitled](%E1%84%8B%E1%85%AA%E1%86%AB%E1%84%87%E1%85%A7%E1%86%A8%E1%84%92%E1%85%A1%E1%86%AB%E1%84%80%E1%85%A5%E1%86%BA%E1%84%87%E1%85%A9%E1%84%83%E1%85%A1%20%E1%84%8B%E1%85%AA%E1%86%AB%E1%84%89%E1%85%AE%E1%84%92%E1%85%A1%E1%84%82%E1%85%B3%E1%86%AB%E1%84%85%E1%85%A7%E1%84%82%E1%85%B3%E1%86%AB%20%E1%84%80%E1%85%A2%E1%84%87%E1%85%A1%E1%86%AF%E1%84%8C%E1%85%A1%E1%84%80%E1%85%A1%20%E1%84%83%E1%85%AC%E1%84%80%E1%85%A9%E1%84%89%E1%85%B5%E1%87%81%2086fdfb62fcd54dfcaf90e7aabbe11e55/Untitled.png)
 
-```sh
-gulp watch
-```
+### **Profile 🤠**
 
-(optional) Third:
+🎂  1995.09.02
 
-```sh
-karma test
-```
+### **Contact** 📞
 
-#### Building for source
+010-5711-7309
 
-For production release:
+### **Used Tool & Skill 👨🏻‍💻**
 
-```sh
-gulp build --prod
-```
+**Tool**
 
-Generating pre-built zip archives for distribution:
+`Git` `Github`  `Visual Studio Code` `Netlify` `Figma` `C#`  /
 
-```sh
-gulp build dist --prod
-```
+**Skill**
 
-## Docker
+`HTML` `CSS` `Javascript` 
 
-Dillinger is very easy to install and deploy in a Docker container.
+## Project ——
 
-By default, the Docker will expose port 8080, so change this within the
-Dockerfile if necessary. When ready, simply use the Dockerfile to
-build the image.
+**제가 현재까지 진행했거나 진행중인 프로젝트들입니다.**
 
-```sh
-cd dillinger
-docker build -t <youruser>/dillinger:${package.json.version} .
-```
+- 깃허브
 
-This will create the dillinger image and pull in the necessary dependencies.
-Be sure to swap out `${package.json.version}` with the actual
-version of Dillinger.
+- 블로그
 
-Once done, run the Docker image and map the port to whatever you wish on
-your host. In this example, we simply map port 8000 of the host to
-port 8080 of the Docker (or whatever port was exposed in the Dockerfile):
+[Certificate](https://www.notion.so/eb5487ae1d1a4197a6e93bdedb8a3ec4)
 
-```sh
-docker run -d -p 8000:8080 --restart=always --cap-add=SYS_ADMIN --name=dillinger <youruser>/dillinger:${package.json.version}
-```
+## 🎓 Education 학력
 
-> Note: `--capt-add=SYS-ADMIN` is required for PDF rendering.
+### 조선대학교
 
-Verify the deployment by navigating to your server address in
-your preferred browser.
+2014.03 ~ 2020.02 
 
-```sh
-127.0.0.1:8000
-```
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzakigaebal&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-## License
-
-MIT
-
-**Free Software, Hell Yeah!**
-
-[//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
-
-   [dill]: <https://github.com/joemccann/dillinger>
-   [git-repo-url]: <https://github.com/joemccann/dillinger.git>
-   [john gruber]: <http://daringfireball.net>
-   [df1]: <http://daringfireball.net/projects/markdown/>
-   [markdown-it]: <https://github.com/markdown-it/markdown-it>
-   [Ace Editor]: <http://ace.ajax.org>
-   [node.js]: <http://nodejs.org>
-   [Twitter Bootstrap]: <http://twitter.github.com/bootstrap/>
-   [jQuery]: <http://jquery.com>
-   [@tjholowaychuk]: <http://twitter.com/tjholowaychuk>
-   [express]: <http://expressjs.com>
-   [AngularJS]: <http://angularjs.org>
-   [Gulp]: <http://gulpjs.com>
-
-   [PlDb]: <https://github.com/joemccann/dillinger/tree/master/plugins/dropbox/README.md>
-   [PlGh]: <https://github.com/joemccann/dillinger/tree/master/plugins/github/README.md>
-   [PlGd]: <https://github.com/joemccann/dillinger/tree/master/plugins/googledrive/README.md>
-   [PlOd]: <https://github.com/joemccann/dillinger/tree/master/plugins/onedrive/README.md>
-   [PlMe]: <https://github.com/joemccann/dillinger/tree/master/plugins/medium/README.md>
-   [PlGa]: <https://github.com/RahulHP/dillinger/blob/master/plugins/googleanalytics/README.md>
-   
-    [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)                 
-   
-                                                   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)     
-                                                   
-                                                   
+용접접합과학공학과 전공
