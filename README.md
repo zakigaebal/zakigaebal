@@ -1,9 +1,3 @@
-# 완수하는것이 완벽한것보다 낫다
-## _a
-
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
-
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 # 완벽한것보다 완수하는려는 개발자가 되고싶은 최대열 입니다.
 
