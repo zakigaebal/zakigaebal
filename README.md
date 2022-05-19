@@ -1,5 +1,5 @@
 
-# 완벽한것보다 완수하는려는 개발자가 되고싶은 최대열 입니다.
+# 완벽한것보다 완수하는려는 개발자가 되고싶어요
 
 ✨ 욕심도 많고 알고 싶은 것도 너무 많아서, 멈추지 않고 배우는 사람이 되고 싶습니다. 
 
@@ -26,7 +26,7 @@ zakigaebal@gmail.com
 # 🙋‍♀️ Introduce
 
 ### "안녕하세요! 🤠
-꾸준히 노력하는 최대열 입니다!"
+꾸준히 노력하는 중이에요
 
 **________**
 
@@ -45,12 +45,6 @@ zakigaebal@gmail.com
  어떻게 프로그래밍을 학습을 해야하는지 누구보다 잘 안다고 자부 할 수 있습니다.
 
 감사합니다.
-
-## About me *——*
-
-[✌ Intro (1)](https://www.notion.so/d457b629698d4a38a2f274037f9472e6)
-
-![Untitled](%E1%84%8B%E1%85%AA%E1%86%AB%E1%84%87%E1%85%A7%E1%86%A8%E1%84%92%E1%85%A1%E1%86%AB%E1%84%80%E1%85%A5%E1%86%BA%E1%84%87%E1%85%A9%E1%84%83%E1%85%A1%20%E1%84%8B%E1%85%AA%E1%86%AB%E1%84%89%E1%85%AE%E1%84%92%E1%85%A1%E1%84%82%E1%85%B3%E1%86%AB%E1%84%85%E1%85%A7%E1%84%82%E1%85%B3%E1%86%AB%20%E1%84%80%E1%85%A2%E1%84%87%E1%85%A1%E1%86%AF%E1%84%8C%E1%85%A1%E1%84%80%E1%85%A1%20%E1%84%83%E1%85%AC%E1%84%80%E1%85%A9%E1%84%89%E1%85%B5%E1%87%81%2086fdfb62fcd54dfcaf90e7aabbe11e55/Untitled.png)
 
 ### **Profile 🤠**
 
@@ -77,8 +71,8 @@ zakigaebal@gmail.com
 - 깃허브
 
 - 블로그
+![image](https://user-images.githubusercontent.com/86054791/169239669-1dc83973-11d8-4f56-bc28-9823dc461fb4.png)
 
-[Certificate](https://www.notion.so/eb5487ae1d1a4197a6e93bdedb8a3ec4)
 
 ## 🎓 Education 학력
 
