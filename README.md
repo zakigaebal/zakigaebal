@@ -13,9 +13,6 @@ zakigaebal@gmail.com
 
 [https://github.com/zakigaebal](https://github.com/zakigaebal)
 
-🍀 **Velog**
-
-[https://velog.io/@maxiday](https://velog.io/@maxiday)
 
 **😎 Code mate**
 
