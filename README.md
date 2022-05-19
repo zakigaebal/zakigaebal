@@ -9,8 +9,6 @@
 
 zakigaebal@gmail.com
 
-📷 **Instagram**
-
 🐱 **Github**
 
 [https://github.com/zakigaebal](https://github.com/zakigaebal)
