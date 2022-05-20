@@ -51,10 +51,11 @@ zakigaebal@gmail.com
 
 010-5711-7309
 
-### **Used Tool & Skill 👨🏻‍💻**
 
+### 2022 개발기록
 ![image](https://user-images.githubusercontent.com/86054791/169248276-0b71c0d6-7109-4978-9318-ee2f52d51add.png)
 
+### **Used Tool & Skill 👨🏻‍💻**
 **Used Tool**
 
 `Git` `Github`  `Visual Studio Code` `Netlify` `Figma` `C#`  /
